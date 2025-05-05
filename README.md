@@ -26,3 +26,6 @@ Conduct usability testing to gather feedback and improve designs.
 Property Listing View: A page displaying various property listings with essential details and images.
 Listing Detailed View: A detailed view of a specific property, including more extensive information and images.
 Simple Checkout View: A streamlined process for booking properties.
+
+A user-friendly design in a booking system is crucial because it makes the process easy, fast, and intuitive for users. It reduces errors and drop-offs, improves customer satisfaction, supports mobile use, and helps increase completed bookings—ultimately boosting the system’s effectiveness and reputation.
+
