@@ -15,7 +15,7 @@ Frontend: HTML, CSS, JavaScript (React or similar framework)
 Version Control: Git and GitHub
 Design Tools: Figma for UI/UX design
 
-UI/UX DESIGN PLANNING
+UI/UX Design Planning
 Create wireframes, mockups, and prototypes.
 Design the layout and visual elements of the application.
 Ensure a consistent brand identity across the application.
