@@ -28,3 +28,18 @@ Simple Checkout View: A streamlined process for booking properties.
 
 A user-friendly design in a booking system is crucial because it makes the process easy, fast, and intuitive for users. It reduces errors and drop-offs, improves customer satisfaction, supports mobile use, and helps increase completed bookings—ultimately boosting the system’s effectiveness and reputation.
 
+Color Styles:
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+
+Typography:
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
+
+Importance of Identifying Design Properties of a Mock Up Design.
+Identifying the design properties of a mockup is important because it ensures that the final product matches the designer’s vision. It helps developers understand layout, colors, typography, spacing, and responsiveness. This improves accuracy, consistency, and efficiency during development, reduces misunderstandings, and results in a better user experience.
+
