@@ -14,3 +14,15 @@ Tech Stack
 Frontend: HTML, CSS, JavaScript (React or similar framework)
 Version Control: Git and GitHub
 Design Tools: Figma for UI/UX design
+
+UI/UX DESIGN PLANNING
+Key Responsibilities:
+Create wireframes, mockups, and prototypes.
+Design the layout and visual elements of the application.
+Ensure a consistent brand identity across the application.
+Collaborate with frontend developers to implement designs.
+Conduct usability testing to gather feedback and improve designs.
+
+Property Listing View: A page displaying various property listings with essential details and images.
+Listing Detailed View: A detailed view of a specific property, including more extensive information and images.
+Simple Checkout View: A streamlined process for booking properties.
