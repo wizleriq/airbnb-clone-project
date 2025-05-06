@@ -114,3 +114,24 @@ Remove impediments that hinder the team’s progress.
 Foster a collaborative and productive team environment.
 Coach the team on Agile principles and practices.
 Ensure continuous improvement within the team.
+
+UI Component Patterns
+Planned Components
+Navbar
+
+Logo
+Search bar
+User navigation
+Responsive menu
+Property Card
+
+Property image
+Basic details (price, location, rating)
+Favorite button
+Responsive layout
+Footer
+
+Site links
+Company information
+Social media links
+Copyright information
